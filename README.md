@@ -26,6 +26,13 @@ always matches selections exactly.
 - Cart persists across reloads via `localStorage`
 - Fully responsive (mobile / tablet / desktop)
 
+## Screenshots
+
+![alt text](<Screenshot 2026-08-12 at 2.49.47 PM.png>)
+![alt text](<Screenshot 2026-08-12 at 2.49.26 PM.png>)
+![alt text](<Screenshot 2026-08-12 at 2.48.55 PM.png>)
+![alt text](<Screenshot 2026-08-12 at 2.48.27 PM.png>)
+
 ## Project structure
 
 ```
